@@ -1,1 +1,1 @@
-# graalvm-example
+# GraalVM example: Java stream benchmark
